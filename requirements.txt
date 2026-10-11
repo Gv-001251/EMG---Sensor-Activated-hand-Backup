@@ -1,0 +1,5 @@
+# Webcam-Controlled Five-Finger Bionic Hand Requirements
+opencv-python>=4.8.0
+mediapipe>=0.10.14
+pyserial>=3.5
+numpy>=1.24.0
